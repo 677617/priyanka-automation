@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50144" started-at="2018-02-06T20:23:37Z" finished-at="2018-02-06T20:24:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50144" started-at="2018-02-06T20:23:37Z" finished-at="2018-02-06T20:24:28Z">
+      <class name="com.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="setUp" is-config="true" duration-ms="10387" started-at="2018-02-06T15:23:37Z" finished-at="2018-02-06T15:23:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:1, instance:com.qa.test.LoginPageTest@578486a3]" name="validateLoginPageTitleTest" duration-ms="153" started-at="2018-02-06T15:23:48Z" finished-at="2018-02-06T15:23:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="tearDown" is-config="true" duration-ms="870" started-at="2018-02-06T15:23:48Z" finished-at="2018-02-06T15:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="setUp" is-config="true" duration-ms="6169" started-at="2018-02-06T15:23:49Z" finished-at="2018-02-06T15:23:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCRMLogo()[pri:2, instance:com.qa.test.LoginPageTest@578486a3]" name="validateCRMLogo" duration-ms="1564" started-at="2018-02-06T15:23:55Z" finished-at="2018-02-06T15:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCRMLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="tearDown" is-config="true" duration-ms="932" started-at="2018-02-06T15:23:57Z" finished-at="2018-02-06T15:23:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="setUp" is-config="true" duration-ms="6778" started-at="2018-02-06T15:23:58Z" finished-at="2018-02-06T15:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.test.LoginPageTest@578486a3]" name="loginTest" duration-ms="15188" started-at="2018-02-06T15:24:04Z" finished-at="2018-02-06T15:24:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="tearDown" is-config="true" duration-ms="754" started-at="2018-02-06T15:24:20Z" finished-at="2018-02-06T15:24:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="setUp" is-config="true" duration-ms="6613" started-at="2018-02-06T15:24:20Z" finished-at="2018-02-06T15:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatesignUpBtnTest()[pri:4, instance:com.qa.test.LoginPageTest@578486a3]" name="validatesignUpBtnTest" duration-ms="1" started-at="2018-02-06T15:24:27Z" finished-at="2018-02-06T15:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatesignUpBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.LoginPageTest@578486a3]" name="tearDown" is-config="true" duration-ms="691" started-at="2018-02-06T15:24:27Z" finished-at="2018-02-06T15:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
